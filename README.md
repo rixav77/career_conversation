@@ -75,8 +75,8 @@ If you are a developer and want to see the code behind this:
 While the avatar is great, nothing beats a real conversation!
 
 * **Hugging Face:** [rishavk77](https://huggingface.co/rishavk77)
-* **Email:** [Your Email Here - optional]
-* **LinkedIn:** [Your LinkedIn Profile Link Here]
+* **Email:** ashu.rishav.k77@gmail.com
+
 
 ---
 
