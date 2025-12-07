@@ -38,7 +38,7 @@ This project demonstrates how to build interactive AI applications using modern 
 * **Frontend/UI:** [Gradio](https://gradio.app/) (Python-based web interface).
 * **Hosting:** Hugging Face Spaces.
 * **Logic:** Python.
-* **AI Model:** [Insert Model Name Here, e.g., OpenAI GPT-4 / Llama 3 / LangChain] used to synthesize responses based on my professional context.
+* **AI Model:** Gemini 2.5 flash used to synthesize responses based on my professional context.
 
 ---
 
