@@ -8,7 +8,7 @@
 
 Welcome to my **Interactive Career Avatar**! 
 
-Instead of reading a static PDF resume, you can now have a conversational interview with an AI version of me. This virtual avatar has been trained on my professional background, skills, and experiences to answer your questions in real-time.
+Instead of reading a static PDF resume, you can now have a conversational interview with an **AI version of me**. This virtual avatar has been trained on my professional background, skills, and experiences to answer your questions in real-time.
 
 ### 🔗 [Click here to chat with the Avatar Live!](https://huggingface.co/spaces/rishavk77/career_conversation)
 
